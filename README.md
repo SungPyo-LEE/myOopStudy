@@ -11,8 +11,7 @@
 ## 2. 추상화
 
 ## 3. 캡슐화
-멤버함수를 감추자. private 하게 감추자.
-Access Specifier를 통한 접근만을 허용하자
+멤버함수를 감추자.</br>private 하게 감추자.</br>Access Specifier를 통한 접근만을 허용하자
 
 ## Last Update
 2021-01-04
