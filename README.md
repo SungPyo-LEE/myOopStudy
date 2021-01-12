@@ -15,7 +15,8 @@
 
 ## 4. 클래스 생성자
 클래스가 생성되면서 멤버변수 선언에 대해 살펴보자.
-작동은 동기적(Synchronous)이라고 볼 수 있나...?? 잘 모르겠다. -> 동기vs비동기 공부하기
+작동은 동기적(Synchronous)이라고 볼 수 있나...?? 잘 모르겠다. 
+-> 동기vs비동기 공부하기
 ```
 void init(const int& id_in, const string& name_in)
 {
