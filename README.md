@@ -26,9 +26,14 @@ void init(const int& id_in, const string& name_in)
 ```
 초기화 코드를 생성하여 위임생성자 및 클래스 생성자의 private 멤버변수에 집어넣자.
 
+소멸자는 무책임하게 할당되는 메모리를 피할 수 있다.
+
+## 5. This Pointer
+Python의 Init와 유사.
+체인 멤버 펑션!
 
 ## Last Update
-2021-01-12
+2021-01-18
 
 ## 참조
 1. 객체지향의 사실과 오해 - 조영호 씨
