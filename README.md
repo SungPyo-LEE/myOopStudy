@@ -32,8 +32,11 @@ void init(const int& id_in, const string& name_in)
 Python의 Init와 유사.
 체인 멤버 펑션!
 
+## 6. Header 파일 작성하기
+MVC패턴에서 Service 부분을 생각하자.</br> 오픈소스에서 원하는 함수를 찾기 편리하다. </br> 항상 정리를 잘하자..
+
 ## Last Update
-2021-01-18
+2021-01-20
 
 ## 참조
 1. 객체지향의 사실과 오해 - 조영호 씨
